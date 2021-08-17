@@ -1,6 +1,6 @@
 FROM    ubi7/ubi:7.7
 
-MAINTAINER username <username@example.com>
+MAINTAINER hmarichal hmarichal@isbel.com.uy
 
 ENV     NODEJS_VERSION=8.0 \
         HOME=/opt/app-root/src
